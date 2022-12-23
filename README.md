@@ -1,0 +1,5 @@
+- 👋 Hi, I’m Ivan aka wmw
+- 👀 I’m interested in software and infrastructure engineering
+- 🌱 I’m currently learning golang, rust and k8s
+- 💞️ I’m looking to collaborate on comfy project
+- 📫 How to reach me instagram.com/wmw , t.me/ivanechka64
