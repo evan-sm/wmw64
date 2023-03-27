@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Ivan aka wmw
+- 👋 Hi, I’m Evan
 - 👀 I’m interested in software and infrastructure engineering
 - 🌱 I’m currently learning golang, rust and k8s
 - 💞️ I’m looking to collaborate on comfy project
